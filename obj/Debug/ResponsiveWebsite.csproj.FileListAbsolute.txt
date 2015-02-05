@@ -4,3 +4,9 @@ C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\ResponsiveWebsite\
 C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\ResponsiveWebsite\obj\Debug\ResponsiveWebsite.csprojResolveAssemblyReference.cache
 C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\ResponsiveWebsite\obj\Debug\ResponsiveWebsite.dll
 C:\Users\phil.e\Documents\Visual Studio 2013\Projects\Sandbox\ResponsiveWebsite\obj\Debug\ResponsiveWebsite.pdb
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\bin\ResponsiveWebsite.dll.config
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\bin\ResponsiveWebsite.dll
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\bin\ResponsiveWebsite.pdb
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\obj\Debug\ResponsiveWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\obj\Debug\ResponsiveWebsite.dll
+C:\Users\Phil\Documents\Visual Studio 2013\Projects\ResponsiveBootstrap\obj\Debug\ResponsiveWebsite.pdb
