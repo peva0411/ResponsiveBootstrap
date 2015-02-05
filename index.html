@@ -4,11 +4,12 @@
     <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/jquery.fs.wallpaper.css" rel="stylesheet" />
     <link href="Content/app.css" rel="stylesheet" />
 
     </head>
     <body>
-        <header>
+        <header id="video-wallpaper">
             <nav class="navbar navbar-inverse navbar-fixed-top cbp-af-header">
                 <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
@@ -148,9 +149,7 @@
                 </div>-->
             
             <div class="container-fluid">
-                <div class="row">
-                    <div class="fill-screen" style="background-image: url(/images/Raineer.jpg)"></div>
-                </div>
+               
                 <div class="row content-filler">
                     
                 </div>
@@ -172,12 +171,21 @@
         <script src="Scripts/bootstrap.min.js"></script>
         <script src="Scripts/classie.js"></script>
         <script src="Scripts/cbpAnimatedHeader.js"></script>
-
+        <script src="Scripts/jquery.fs.wallpaper.js"></script>
         <script>
             $(function() {
                 $(window).on("load resize", function() {
                     $(".fill-screen").css("height", window.innerHeight);
                 });
+
+
+                $("#video-wallpaper").wallpaper({
+                    source: {
+                        poster: "/images/raineer.jpg",
+                        video: "//www.youtube.com/embed/Kj1k_uIByio"
+                    }
+                });
+
             })
         </script>
 
